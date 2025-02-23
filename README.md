@@ -3,7 +3,11 @@ Reddit Trading Bot 2 is an automated tool that interacts with Reddit and provide
 
 # Features
 Reddit Subreddit Monitoring: The bot monitors and extracts posts from the r/wallstreetbets subreddit.
+
 Sentiment Analysis: Performs sentiment analysis on the comments and posts to determine the general market sentiment.
+
 Keyword Tracking: Identifies trending keywords related to stocks, assets, or specific financial terms.
+
 Data Extraction: Automatically collects important data from relevant posts to be used for analysis or further processing.
+
 Alerts: Set up alerts based on specific keywords or sentiment shifts, ensuring timely notifications.
